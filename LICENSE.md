@@ -1,7 +1,7 @@
 The MIT License (MIT)
 =====================
 
-Copyright (c) 2014 Martin Haug
+Copyright (c) 2014 Sam-Luca Hansen, Marcel Ohlig, Michael Jamison AND CONTRIBUTERS 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
